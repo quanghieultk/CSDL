@@ -1,0 +1,11 @@
+<?php 
+    include('includes/index.php');
+    include('includes/header.php');
+    include('includes/connect.php');
+?>
+<?php 
+    include('content.php');
+ ?>
+ <?php 
+    include('includes/footer.php');
+ ?>
